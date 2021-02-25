@@ -1,6 +1,6 @@
 # tagged-hash
 
-An implementation of tagged hashes used in [BIP340](https://github.com/bitcoin/bips/blob/master/bip-0173.mediawiki) and elsewhere.
+An implementation of tagged hashes used in [BIP340](https://github.com/bitcoin/bips/blob/master/bip-0340.mediawiki) and [BIP341](https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki).
 
 
 ## Example
